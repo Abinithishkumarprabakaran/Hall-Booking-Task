@@ -1,0 +1,14 @@
+'/' -> Welcome Page
+'/rooms -> display the hall details
+
+1. Create a Room 
+'/rooms/' -> POST operation, to create room
+
+2. Booking a Room
+'/rooms/book' -> POST operation, to book a room
+
+3. List All the Booked Rooms
+'/rooms/booked-status' -> GET method to list all the booked rooms
+
+4. List all Customers with booked data
+'/rooms/booked-customer' -> GET method to list all the customers who booked rooms
